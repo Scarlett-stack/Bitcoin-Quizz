@@ -1,3 +1,7 @@
+A node js polished bitcoin quizz I made for a team project for IA4 course. The project is a website with diverse quizzes but for some reason the team leader took the repo down. I'll only publish my react quizz as to not clash with author rights or whatever conflicts may arise.
+
+Obviously the dependiencies have been moved to .gitignore you should reinstall them after cloning.
+Overall, a fun project I burned the midnight oil to , motivated me to start working with react and explore more about javascript, html and css.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
